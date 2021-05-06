@@ -3,4 +3,4 @@ Edit your among us character on ANDROID with this app
 # Info
 This app is inspired by Koupah's [Among Us Editor](https://github.com/Koupah/Among-Us-Editor)
 # License
-This repo is License in GNU v3.0
+Distributed under the MIT License. See `LICENSE` for more information.  
